@@ -1,4 +1,4 @@
-# 已下載之官方免費文件（2026-11-18）
+# 已下載之官方免費文件（2026-11-18；本資料夾 literature/）
 
 ## 新加坡 BCA Green Mark 2021（SG/）
 - GM2021_Certification_Standard_r3.pdf — 認證標準（2026-06 版 r3）
